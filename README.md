@@ -1,4 +1,4 @@
-# Repo for holiday break project
+# Repo for holiday break
 
 We hope you have a good festive break and spend quality time with your family and friends! However, we also want you to keep your problem-solving and code-building skills in good working order so that we can hit the ground running in the new year. Instead of poring over notes, the best way to do this is to use your skills to build an application.
 
